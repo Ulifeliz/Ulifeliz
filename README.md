@@ -1,4 +1,4 @@
-## **Pastel e sorvete me dexa Feliz!!!
+## **Pastel e sorvete me deixa Feliz!!!
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
